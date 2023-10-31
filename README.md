@@ -5,6 +5,12 @@ This document was written for the QA assessement of ecoPortal. The challenge con
 # Pre-requisites
 
 * Download Node.js on the official [website](https://nodejs.org/en/download).
+
+* After some trouble with the current `npm` version, the solution was to downgrade it, following the command:
+```
+npm install -g npm@6
+```
+
 * Download GIT on the official [website](https://git-scm.com/downloads).
 * Cypress is a front-end test automation framework, you can install it via:  
 
