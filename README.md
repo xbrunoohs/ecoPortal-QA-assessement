@@ -35,4 +35,4 @@ Choosing the E2E option, it leads to a window to choose a browser to proceed. Go
 
 # Documentation
 
-In planning and executing challenges that you can find on the `doc` folder, was used Gherkin language to write the user stories in the planning part, and common quality metrics to verify the results after executing tests.
+Details of the planning and execution of each challenge can be found in the [doc](doc/) folder. The Gherkin language was used to write the user stories in the planning part, and the results were verified using common quality parameters.
