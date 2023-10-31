@@ -5,12 +5,15 @@ This document was written for the QA assessement of ecoPortal. The challenge con
 # Pre-requisites
 
 * Download Node.js on the official [website](https://nodejs.org/en/download).
+* Download GIT on the official [website](https://git-scm.com/downloads).
 * Cypress is a front-end test automation framework, you can install it via:  
 
 ```
 npm install cypress --save-dev
 ```
 For further troubleshooting, visit the official [guide](https://docs.cypress.io/guides/getting-started/installing-cypress).
+
+Make sure not to install the framework directly in your user folder to avoid known [issues](https://github.com/cypress-io/cypress/issues/22052).
 
 # Running
 
