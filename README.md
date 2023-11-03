@@ -43,6 +43,8 @@ Make sure to select the E2E option.
 
 Choosing the E2E option, it leads to a window to choose a browser to proceed. Google Chrome is highly recommended because it was the browser used to write and run the test. It will open a window on the browser with the specs (test files) listed. Select the test file `post-search.cy.js` and it will run the test.
 
+* In some cases, I found a issue that the Cypress does not find the `.js` file, then I had to find manually the file and run it.
+
 # Documentation
 
 Details of the planning and execution of each challenge can be found in the [doc](doc/) folder. The Gherkin language was used to write the user stories in the planning part, and the results were verified using common quality parameters.
