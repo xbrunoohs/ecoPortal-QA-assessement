@@ -29,7 +29,7 @@ Clone the repository using:
 git clone https://github.com/xbrunoohs/ecoPortal-QA-assessement.git
 ```
 
-Open the terminal inside the project folder and execute:
+Open the terminal inside the project folder `3-automation` and execute:
 ```
 npx cypress open
 ```
