@@ -3,6 +3,7 @@
 This document was written for the QA assessement of ecoPortal. The challenge consist of planning, executing and automating tests to verify the functionality of a [website](https://arstechnica.com).
 
 # Pre-requisites
+Remember that this project was written to be run on a Windows system.
 
 * Download Node.js on the official [website](https://nodejs.org/en/download).
 
